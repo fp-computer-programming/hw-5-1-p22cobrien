@@ -5,10 +5,10 @@ random.seed(16)
 random.randrange(31, 50)
 
 # Question 2
-random.randrange(3, 75)
+random.randrange(4, 75, 2)
 
 # Question 3
-random.randint(20, 30)
+random.randint(21, 31, 2)
 
 # Question 4
 random.randint(1, 8)
